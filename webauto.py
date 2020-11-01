@@ -21,4 +21,4 @@ print(y)
 # #点击元素
 
 
-pass~··
+pass
