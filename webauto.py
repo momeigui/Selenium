@@ -20,5 +20,9 @@ print(y)
 # element.click()
 # #点击元素
 
+time.sleep(1)
+#等待1秒
+
+wd.implicitly_wait(10) 
 
 pass
